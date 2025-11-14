@@ -3,7 +3,7 @@
 ### Hi there! I'm Daryl 
 
 I like making apps that are smooth, fast, and easy to use.<br>
-→ [Portfolio](https://portfolio-topaz-nine-51.vercel.app/)
+→ [Portfolio](https://drylkr.github.io/)
 
 
 #### Currently Building With
