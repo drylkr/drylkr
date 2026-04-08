@@ -2,7 +2,6 @@
 
 ### Hi there! I'm Daryl 
 
-I like making apps that are smooth, fast, and easy to use.<br>
 → [Portfolio](https://drylkr.github.io/)
 
 
